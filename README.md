@@ -17,7 +17,7 @@
   <img align="center" alt="Cissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cissa-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    
-  <img align="center" alt="Cissa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Cissa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Cissa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/236x/a8/44/a4/a844a4550a7f0038d985637fc2cfef85.jpg">
 </div>
   
