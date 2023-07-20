@@ -1,7 +1,6 @@
 ### Oii! Eu sou a Cecília Machado.
 
-- 💻 Estou cursando Sistemas para Internet no IFRS.
-- 📚 Estudando React e Typescript.
+- 💻 Estou cursando Sistemas para Internet no IFRS..
 - 😊 Pronomes: Ela/Dela.
 
 <div align="center">
