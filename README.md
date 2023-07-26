@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Cecília Machado.
 
 - 📒Estou cursando Sistemas para Internet no IFRS.
-- 💻 Desenvolvedora backend.
+- 💻 Desenvolvedora FullStack.
 - 😊 Pronomes: Ela/Dela.
 
 <div align="center">
